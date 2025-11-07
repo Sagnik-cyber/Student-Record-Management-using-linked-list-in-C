@@ -1,0 +1,2 @@
+# Student-Record-Management-using-linked-list-in-C
+This project is a console-based application to manage student records. Solves the problem of static, fixed-size arrays by using a singly linked list as its core data structure. It allows the database to grow and shrink dynamically. The system provides the five essential functionalities: Add, Search, Update, Delete, and Display All student records.
